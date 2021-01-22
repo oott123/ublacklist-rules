@@ -1,0 +1,16 @@
+# 阿里、腾讯、华为云的 SEO 污染
+*://*.aliyun.com/wordpower/*
+*://*.aliyun.com/sswd/*
+*://cloud.tencent.com/developer/information/*
+*://support.huaweicloud.com/topic/*
+*://www.huaweicloud.com/theme/*
+
+# 腾讯云机翻问答
+*://cloud.tencent.com/developer/ask/*
+
+# 新闻快搜等
+*://*/so.php
+*://*/so.php?s=*
+
+# 机翻或拷贝 Stackoverflow
+*://html.developreference.com/*
